@@ -6,7 +6,7 @@ I enjoy learning about AI agents and exploring how they can use tools, coordinat
 
 - Chinese — Native
 - Korean — Advanced communication
-- English — Currently learning
+- English — Intermediate; continuing to improve
 
 ## Agent to-do list
 
