@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm a Media & Communication student
 
-<!--
-**chuchu1214w/chuchu1214w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science minor · Building useful digital tools**
 
-Here are some ideas to get you started:
+I’m interested in how thoughtful software can make everyday work simpler. Here are two projects I’ve built:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+### [Rehearsal Scheduler](https://github.com/chuchu1214w/rehearsal-scheduler)
+A scheduling tool for dance teams that coordinates availability, optimizes rehearsal plans, and helps organizers understand conflicts.
+
+`Python` `FastAPI` `OR-Tools` `React` `TypeScript`
+
+### [English Study](https://github.com/chuchu1214w/english-study)
+A personal English-learning app for vocabulary review, study planning, practice tracking, and AI-assisted feedback.
+
+`HTML` `CSS` `JavaScript`
+
+## Focus
+
+Practical software, clear interfaces, and tools designed around people.
