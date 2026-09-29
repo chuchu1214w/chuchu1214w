@@ -2,6 +2,12 @@
 
 I enjoy learning about AI agents and exploring how they can use tools, coordinate tasks, and solve practical problems.
 
+## Languages
+
+- Chinese — Native
+- Korean — Advanced communication
+- English — Currently learning
+
 ## Agent to-do list
 
 ### Learn
