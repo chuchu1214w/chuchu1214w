@@ -2,15 +2,24 @@
 
 I enjoy learning about AI agents and exploring how they can use tools, coordinate tasks, and solve practical problems.
 
-## Learning goals
+## Agent to-do list
 
-- Understand agent architectures and frameworks
-- Explore tool use, orchestration, memory, and evaluation
+### Learn
+- [ ] Understand the agent loop: goals, actions, observations, and stopping conditions
+- [ ] Learn tool calling, structured outputs, and input validation
+- [ ] Explore context management, memory, and retrieval
+- [ ] Compare planning and orchestration patterns, including multi-agent systems
+- [ ] Study agent evaluation: task success, reliability, latency, and cost
 
-## Building goals
+### Build
+- [ ] Build a small tool-using agent for a practical workflow
+- [ ] Add clear error handling, human review, and useful logs
+- [ ] Create test cases to measure whether changes make the agent more reliable
 
-- Build clear, reliable agent-powered tools for practical workflows
-- Turn what I learn into small projects and share the process
+### Research
+- [ ] Compare agent frameworks and understand their trade-offs
+- [ ] Read papers and documentation about agent reliability and evaluation
+- [ ] Record experiments, failures, and lessons learned
 
 ## Selected projects
 
